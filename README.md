@@ -1,1 +1,2 @@
-# CreditRiskPrediction-Rakamin
+# Rakamin - ID/X Partners Data Scientist Virtual Internship Program
+Tujuan utama dari proyek ini adalah untuk membantu lending company dalam menghadapi tantangan yang berkaitan dengan penilaian credit risk. Dengan menggunakan dataset yang disediakan oleh perusahaan, yang terdiri dari data pinjaman yang diterima dan ditolak sebelumnya, akan dibangun sebuah model prediksi credit risk yang dapat memberikan informasi yang berharga dalam pengambilan keputusan terkait persetujuan pinjaman di masa depan.
